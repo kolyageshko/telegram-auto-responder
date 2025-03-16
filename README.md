@@ -12,7 +12,7 @@ A Telegram auto-responder bot that sends a predefined message to users who write
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/telegram-auto-responder.git
+   git clone https://github.com/kolyageshko/telegram-auto-responder.git
    cd telegram-auto-responder
    
 2. Clone the repository:
